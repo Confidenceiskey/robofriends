@@ -1,7 +1,7 @@
 {
   "short_name": "robofriends",
   "name": "robofriends",
-  "description": "A React App that searches through Robot users"
+  "description": "A React App that searches through Robot users",
   "icons": [
     {
       "src": "favicon.ico",
