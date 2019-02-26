@@ -21,4 +21,4 @@ The approach to build this React app was to use a robots API to obtain the requi
 
 Check out the [live version](https://confidenceiskey.github.io/robofriends/)
 
-![Screenshot of a Robofriends Web App from a Udemy Course](https://confidenceiskey.github.io/robofriends/robofriends.png "Screenshot of my Robofriends Web App")
+![Screenshot of a Robofriends Web App from a Udemy Course](https://confidenceiskey.github.io/codepenimg/robofriends.png "Screenshot of my Robofriends Web App")
